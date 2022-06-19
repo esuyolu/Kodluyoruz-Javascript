@@ -1,0 +1,8 @@
+{
+    "userName": "Fake User",
+    "password": 1234,
+    "serverIP": "127.0.0.1",
+    "serverName": "kodluyoruz.org",
+    "isAuth": true,
+    "userIDs": [1, 2, 3, 4, 5]
+}
